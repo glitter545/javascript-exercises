@@ -14,10 +14,4 @@ const reverseString = function(string) {
 // Do not edit below this line
 module.exports = reverseString;
 
-//count the letters 
-//loop til the last letter 
-//put string in an array // string is already an array, by default
-//countdown from last to first letter
-//store in a new variable
-//convert to string
 
